@@ -1,2 +1,2 @@
 # New project
-This project was ctreated from local system.
+This project was ctreated from local system..
